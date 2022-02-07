@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*NANDHUTTY_V2 by AJMAL AND ACHU*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*ᴀᴍᴍᴜᴛᴛʏ_V2 by SHIBI SER*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
