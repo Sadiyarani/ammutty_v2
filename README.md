@@ -78,7 +78,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty_v2&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
+  
   </div>
     
 ### ⚠️ Warning! 
