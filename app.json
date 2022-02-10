@@ -124,7 +124,7 @@
             "value": "•━━━━╼⤏ammutty_v2⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Nandhutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "ammutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
