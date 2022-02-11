@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/HTecOCr.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/7KqJYjG.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="ammutty_v2" src="https://img.shields.io/badge/ammutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
