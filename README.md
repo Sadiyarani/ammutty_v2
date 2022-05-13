@@ -24,7 +24,7 @@ IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `SHIBI` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/SHIBI-SER/ammutty_v2
+Copy this link https://heroku.com/deploy?template=https://github.com/Sadiyarani/ammutty_v2
 </p>
 
 
